@@ -15,8 +15,8 @@
     </defs>
     <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Badges" transform="translate(-117.000000, -347.000000)">
-            <g id="Small-Badges" transform="translate(117.000000, 287.000000)">
-                <g id="s-version" transform="translate(0.000000, 60.000000)">
+            <g id="Small-Badges" transform="translate(117.000000, 257.000000)">
+                <g id="s-version" transform="translate(0.000000, 90.000000)">
                     <g id="Version" transform="translate(24.000000, 0.000000)">
                         <path d="M0,0 L28,0 L28,0 C29.1045695,-2.16501571e-15 30,0.8954305 30,2 L30,18 L30,18 C30,19.1045695 29.1045695,20 28,20 L0,20 L0,0 Z" id="Base" fill="#00AAFF"></path>
                         <g id="v97" fill-opacity="1" fill="#FFFFFF">

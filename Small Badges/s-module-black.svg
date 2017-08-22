@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="151px" height="20px" viewBox="0 0 151 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="75px" height="20px" viewBox="0 0 75 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>s-open-c-black</title>
+    <title>s-module-black</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <text id="text-1" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#FFFFFF">
-            <tspan x="5" y="14">Open in Framer Cloud</tspan>
+            <tspan x="5" y="14">Module</tspan>
         </text>
-        <filter x="-1.3%" y="-10.7%" width="102.6%" height="121.4%" filterUnits="objectBoundingBox" id="filter-2">
+        <filter x="-3.7%" y="-10.7%" width="107.3%" height="121.4%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.481770833   0 0 0 0 0.481770833   0 0 0 0 0.481770833  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Badges" transform="translate(-278.000000, -287.000000)">
+        <g id="Badges" transform="translate(-204.000000, -317.000000)">
             <g id="Small-Badges" transform="translate(117.000000, 257.000000)">
-                <g id="s-open-c-black" transform="translate(161.000000, 30.000000)">
-                    <g id="Text" transform="translate(24.000000, 0.000000)">
-                        <path d="M0,0 L125,0 L125,0 C126.104569,-2.02906125e-16 127,0.8954305 127,2 L127,18 L127,18 C127,19.1045695 126.104569,20 125,20 L0,20 L0,0 Z" id="Base" fill="#000000"></path>
-                        <g id="Open-in-Framer-Cloud" fill-opacity="1" fill="#FFFFFF">
+                <g id="s-module-black" transform="translate(87.000000, 60.000000)">
+                    <g id="module" transform="translate(24.000000, 0.000000)">
+                        <path d="M0,0 L49,0 L49,0 C50.1045695,-2.02906125e-16 51,0.8954305 51,2 L51,18 L51,18 C51,19.1045695 50.1045695,20 49,20 L0,20 L0,0 Z" id="Base" fill="#000000"></path>
+                        <g id="Module" fill-opacity="1" fill="#FFFFFF">
                             <use filter="url(#filter-2)" xlink:href="#text-1"></use>
                             <use xlink:href="#text-1"></use>
                         </g>
