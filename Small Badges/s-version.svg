@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="116px" height="20px" viewBox="0 0 116 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="54px" height="20px" viewBox="0 0 54 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
-    <title>Open in Framer</title>
+    <title>s-version</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <text id="text-1" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#FFFFFF">
-            <tspan x="5" y="14">Open in Framer</tspan>
+            <tspan x="5" y="14">v97</tspan>
         </text>
-        <filter x="-1.8%" y="-10.7%" width="103.7%" height="121.4%" filterUnits="objectBoundingBox" id="filter-2">
+        <filter x="-7.5%" y="-10.7%" width="115.0%" height="121.4%" filterUnits="objectBoundingBox" id="filter-2">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.481770833   0 0 0 0 0.481770833   0 0 0 0 0.481770833  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Badges" transform="translate(-243.000000, -287.000000)">
-            <g id="Small-Badge" transform="translate(117.000000, 287.000000)">
-                <g id="Open-in-Framer" transform="translate(126.000000, 0.000000)">
+        <g id="Badges" transform="translate(-117.000000, -347.000000)">
+            <g id="Small-Badges" transform="translate(117.000000, 287.000000)">
+                <g id="s-version" transform="translate(0.000000, 60.000000)">
                     <g id="Version" transform="translate(24.000000, 0.000000)">
-                        <path d="M0,0 L90,0 L90,0 C91.1045695,-2.02906125e-16 92,0.8954305 92,2 L92,18 L92,18 C92,19.1045695 91.1045695,20 90,20 L0,20 L0,0 Z" id="Base" fill="#000000"></path>
-                        <g id="Open-in-Framer" fill-opacity="1" fill="#FFFFFF">
+                        <path d="M0,0 L28,0 L28,0 C29.1045695,-2.16501571e-15 30,0.8954305 30,2 L30,18 L30,18 C30,19.1045695 29.1045695,20 28,20 L0,20 L0,0 Z" id="Base" fill="#00AAFF"></path>
+                        <g id="v97" fill-opacity="1" fill="#FFFFFF">
                             <use filter="url(#filter-2)" xlink:href="#text-1"></use>
                             <use xlink:href="#text-1"></use>
                         </g>
