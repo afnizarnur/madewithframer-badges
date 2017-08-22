@@ -11,62 +11,62 @@ Just copy and paste the code below and replace the link with yours.
 ## Open in Framer
 
 ### Blue
-[![Framer](https://madewithframer.com/badges/of/open-a-blue.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/of/open-a-blue.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/open-framer/open-a-blue.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer/open-a-blue.svg)](https://framer.cloud/tiSDi/)`
 
 ### Ghost
-[![Framer](https://madewithframer.com/badges/of/open-a-ghost.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/of/open-a-ghost.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/open-framer/open-a-ghost.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer/open-a-ghost.svg)](https://framer.cloud/tiSDi/)`
 
 ### Black
-[![Framer](https://madewithframer.com/badges/of/open-a-black.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/of/open-a-black.svg)](https://framer.cloud/tiSDi/)`  
+[![Framer](https://madewithframer.com/badges/open-framer/open-a-black.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer/open-a-black.svg)](https://framer.cloud/tiSDi/)`  
 
 ## Open in Framer Cloud
 ### Blue
-[![Framer](https://madewithframer.com/badges/ofc/open-c-blue.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/ofc/open-c-blue.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-blue.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-blue.svg)](https://framer.cloud/tiSDi/)`
 
 ### Ghost
-[![Framer](https://madewithframer.com/badges/ofc/open-c-ghost.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/ofc/open-c-ghost.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-ghost.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-ghost.svg)](https://framer.cloud/tiSDi/)`
 
 ### Black
-[![Framer](https://madewithframer.com/badges/ofc/open-c-black.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/ofc/open-c-black.svg)](https://framer.cloud/tiSDi/)`  
+[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-black.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/open-framer-cloud/open-c-black.svg)](https://framer.cloud/tiSDi/)`  
 
 ## Small Badges
 ### Open in Framer
 #### Blue
-[![Framer](https://madewithframer.com/badges/sb/s-open-a-blue.svg)](https://framer.cloud/tiSDi/)
-`[![Framer](https://madewithframer.com/badges/sb/s-open-a-blue.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-open-a-blue.svg)](https://framer.cloud/tiSDi/)
+`[![Framer](https://madewithframer.com/badges/small-badges/s-open-a-blue.svg)](https://framer.cloud/tiSDi/)`
 #### Black
-[![Framer](https://madewithframer.com/badges/sb/s-open-a-black.svg)](https://framer.cloud/tiSDi/)
-`[![Framer](https://madewithframer.com/badges/sb/s-open-a-black.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-open-a-black.svg)](https://framer.cloud/tiSDi/)
+`[![Framer](https://madewithframer.com/badges/small-badges/s-open-a-black.svg)](https://framer.cloud/tiSDi/)`
 
 ### Open in Framer Cloud
 #### Blue
-[![Framer](https://madewithframer.com/badges/sb/s-open-c-blue.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/sb/s-open-c-blue.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-open-c-blue.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/small-badges/s-open-c-blue.svg)](https://framer.cloud/tiSDi/)`
 
 #### Black
-[![Framer](https://madewithframer.com/badges/sb/s-open-c-black.svg)](https://framer.cloud/tiSDi/)
-`[![Framer](https://madewithframer.com/badges/sb/s-open-c-black.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-open-c-black.svg)](https://framer.cloud/tiSDi/)
+`[![Framer](https://madewithframer.com/badges/small-badges/s-open-c-black.svg)](https://framer.cloud/tiSDi/)`
 
 ### Module
 #### Blue
-[![Framer](https://madewithframer.com/badges/sb/s-module-c-blue.svg)](https://framer.cloud/tiSDi/)
-`[![Framer](https://madewithframer.com/badges/sb/s-module-c-blue.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-module-blue.svg)](https://framer.cloud/tiSDi/)
+`[![Framer](https://madewithframer.com/badges/small-badges/s-module-blue.svg)](https://framer.cloud/tiSDi/)`
 
 #### Black
-[![Framer](https://madewithframer.com/badges/sb/s-module-black.svg)](https://framer.cloud/tiSDi/)
-`[![Framer](https://madewithframer.com/badges/sb/s-module-black.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-module-black.svg)](https://framer.cloud/tiSDi/)
+`[![Framer](https://madewithframer.com/badges/small-badges/s-module-black.svg)](https://framer.cloud/tiSDi/)`
 
 ### Version
 #### Blue
-[![Framer](https://madewithframer.com/badges/sb/s-version.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/sb/s-version.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.cloud/tiSDi/)`
 
 ### Made with Framer
-[![Framer](https://madewithframer.com/badges/sb/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)  
-`[![Framer](https://madewithframer.com/badges/sb/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)`
+[![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)  
+`[![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)`
