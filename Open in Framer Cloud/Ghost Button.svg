@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="145px" height="51px" viewBox="0 0 145 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Ghost Button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Badges" transform="translate(-282.000000, -235.000000)">
+            <g id="Open-in-Framer-Cloud" transform="translate(117.000000, 235.000000)">
+                <g id="Ghost-Button" transform="translate(165.000000, 0.000000)">
+                    <rect id="Base" stroke="#66CCFF" x="0.5" y="0.5" width="144" height="50" rx="4"></rect>
+                    <g id="Content" transform="translate(10.000000, 10.000000)">
+                        <g id="Text" transform="translate(33.000000, 0.000000)" font-family="Roboto-Medium, Roboto" font-weight="400">
+                            <text id="Open-in" opacity="0.25" font-size="12" fill="#000000">
+                                <tspan x="0" y="11">Open in</tspan>
+                            </text>
+                            <text id="Framer-Cloud" font-size="14" fill="#00AAFF">
+                                <tspan x="0" y="28">Framer Cloud</tspan>
+                            </text>
+                        </g>
+                        <g id="Logo" transform="translate(0.000000, 3.000000)">
+                            <rect id="Base" x="0" y="0" width="25" height="25"></rect>
+                            <image x="5" y="0" width="17" height="25.5" xlink:href="data:image/png;base64,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"></image>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
