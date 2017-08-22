@@ -2,7 +2,7 @@
 Unofficial collection of *Framer Badges* for your project's **README** file.
 
 ## Behind the Story
-When I studied Framer, sometimes I searched for the source code of a project on Github. I'm always happy when the repository has an explanation and a demo link of the project, but most don't exist, so I have to clone the project into the computer and it is very inefficient. I decided to create this badge so that people who shared their code in Github could link the project interestingly and easily! 👌
+When I learning Framer, sometimes I searched for the source code of a project on Github. I'm always happy when the repository has an explanation and a demo link of the project, but most don't exist, so I have to clone the project into the computer and it is very inefficient. I decided to create this badge so that people who shared their code in Github could link the project interestingly and easily! 👌
 
 Just copy and paste the code below and replace the link with yours.
 
@@ -84,5 +84,5 @@ Just copy and paste the code below and replace the link with yours.
 
 ### Made with Framer
 [![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)
-  
+
 `[![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://framer.cloud/tiSDi/)`
