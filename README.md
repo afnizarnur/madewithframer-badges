@@ -86,3 +86,9 @@ Just copy and paste the code below and replace the link with yours.
 [![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://madewithframer.com/)
 
 `[![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://madewithframer.com/)`
+
+### License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/afnizarnur" property="cc:attributionName" rel="cc:attributionURL"Afnizar Nur Ghifari</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+The logo of Framer are trademarks of Motif Tools BV.
