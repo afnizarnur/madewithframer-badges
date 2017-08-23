@@ -78,9 +78,9 @@ Just copy and paste the code below and replace the link with yours.
 
 ### Version
 #### Blue
-[![Framer Version](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.cloud/tiSDi/)
+[![Framer Version](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.com/)
 
-`[![Framer Version]](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.cloud/tiSDi/)`
+`[![Framer Version]](https://madewithframer.com/badges/small-badges/s-version.svg)](https://framer.com/)`
 
 ### Made with Framer
 [![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://madewithframer.com/)
