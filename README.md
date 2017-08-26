@@ -66,12 +66,27 @@ Just copy and paste the code below and replace the link with yours.
 `[![Open in Framer Cloud](https://madewithframer.com/badges/small-badges/s-open-c-black.svg)](https://framer.cloud/tiSDi/)`
 
 ### Module
-#### Blue
+#### Big Blue
+[![Framer Module](https://madewithframer.com/badges/modules/work-blue.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)
+
+`[![Framer Module](https://madewithframer.com/badges/modules/work-blue.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)`
+
+#### Big Ghost
+[![Framer Module](https://madewithframer.com/badges/modules/work-ghost.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)
+
+`[![Framer Module](https://madewithframer.com/badges/modules/work-ghost.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)`
+
+#### Big Black
+[![Framer Module](https://madewithframer.com/badges/modules/work-black.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)
+
+`[![Framer Module](https://madewithframer.com/badges/modules/work-black.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)`
+
+#### Small Blue
 [![Framer Module](https://madewithframer.com/badges/small-badges/s-module-blue.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)
 
 `[![Framer Module](https://madewithframer.com/badges/small-badges/s-module-blue.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)`
 
-#### Black
+#### Small Black
 [![Framer Module](https://madewithframer.com/badges/small-badges/s-module-black.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)
 
 `[![Framer Module](https://madewithframer.com/badges/small-badges/s-module-black.svg)](https://github.com/benjamindenboer/Framer-AudioPlayer)`
