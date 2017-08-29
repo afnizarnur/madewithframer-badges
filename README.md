@@ -103,6 +103,6 @@ Just copy and paste the code below and replace the link with yours.
 `[![Framer](https://madewithframer.com/badges/small-badges/s-made-with-framer.svg)](https://madewithframer.com/)`
 
 ### License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+<a href="https://github.com/madewithframer/badges/blob/master/LICENSE">MIT</a>
 
 The logo of <a href="https://framer.com/">Framer</a> are trademarks of Motif Tools BV.
