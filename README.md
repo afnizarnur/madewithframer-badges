@@ -104,5 +104,3 @@ Just copy and paste the code below and replace the link with yours.
 
 ### License
 <a href="https://github.com/madewithframer/badges/blob/master/LICENSE">MIT</a>
-
-The logo of <a href="https://framer.com/">Framer</a> are trademarks of Motif Tools BV.
